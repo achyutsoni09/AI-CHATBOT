@@ -71,6 +71,10 @@ if st.sidebar.button("🔄 Reset Conversation"):
 
 
 
+st.markdown('**Design And Developed By: ACHYUT SONI**')
+
+
+
 
 
 
